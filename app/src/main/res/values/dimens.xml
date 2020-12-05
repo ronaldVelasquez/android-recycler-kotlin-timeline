@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_horizontal">32dp</dimen>
+    <dimen name="margin_top_logo_main">10dp</dimen>
+    <dimen name="margin_top_button_main">20dp</dimen>
+    <dimen name="logo_height_main">100dp</dimen>
+    <dimen name="edittext_main">75dp</dimen>
+    <dimen name="button_height_main">75dp</dimen>
+    <dimen name="button_text_size_main">20sp</dimen>
+</resources>

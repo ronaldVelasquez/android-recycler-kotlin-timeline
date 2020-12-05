@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_facebook_main">Facebook</string>
+    <string name="hint_email_mail">Email or phone number</string>
+    <string name="hint_password_main">Password</string>
+    <string name="button_login_main">Log In</string>
+</resources>
